@@ -13,7 +13,7 @@ html {
   height: 100%;
   color: #272727;
   line-height: 1.8;
-  background: linear-gradient(to right, #f7b229, #dc6c11);
+  background: linear-gradient(to right, #009ac5, #008080);
   background-size: cover; }
 
 @keyframes fadein {
